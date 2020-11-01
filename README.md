@@ -8,4 +8,4 @@
 - Wallet
 ```
 ### db schemas
-> > ![Alt text](./document/monee_schema.png)
+> > ![Alt text](./docs/monee-schema.png)
